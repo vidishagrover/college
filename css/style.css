@@ -1,0 +1,520 @@
+@import url(//db.onlinewebfonts.com/c/194a4e87b627adf12e8094e7babca496?family=Lora);
+body{
+    font-family: 'Lora', serif;
+    
+}
+/* .lower{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 300px;
+} */
+.header-img{
+    width: 100%;
+    height: 725px;
+    background: url("../img/home.jpg") ;
+    background-size: cover;
+    
+}
+.box{
+    background-color: #fff0f0;
+    opacity: 85%;
+    padding-left: 5%;
+}
+.lower{
+    position: absolute;
+    top: 76%;
+    left: 3%;
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+}
+hr.adm{
+    border-top: solid white;
+}
+.form{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    border: solid transparent;
+    text-align: center;
+    background-color: #373a40;
+    width: 30%;
+    height:auto;
+}
+.spons{
+    width: 130%;
+    padding-right: 30%;
+}
+.elk{
+    background-color: white;
+    
+}
+.lin{
+    border-top: solid white;
+
+}
+.submit{
+    width: 10%;
+    color: black;
+}
+.btn{
+    background-color: #51adcf;
+    color: black;
+    border-radius: 10px;
+
+}
+.btn:hover{
+    background-color: #51adcf;
+}
+.checkmark{
+    background-color: #51adcf;
+}
+.check{
+    font-size: xx-small;
+}
+.heading{
+    border: solid transparent;
+    border-radius: 18px;
+    background-color:#51adcf;
+    color: white;
+    padding-left: 44%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    font-weight: bold;
+    
+    
+}
+.aheading{
+    border: solid transparent;
+    border-radius: 18px;
+    background-color:#51adcf;
+    color: white;
+    font-weight: bold;
+    padding-left: 35%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+
+
+}
+.pheading{
+    border: solid transparent;
+    border-radius: 18px;
+    background-color:#51adcf;
+    color: white;
+    font-weight: bold;
+    padding-left: 43%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+
+}
+.rheading{
+    border: solid transparent;
+    border-radius: 18px;
+    background-color:#51adcf;
+    color: white;
+    padding-left: 44%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    font-weight: bold;
+
+}
+.alheading{
+    border: solid transparent;
+    border-radius: 18px;
+    background-color:#51adcf;
+    color: white;
+    padding-left: 42%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    font-weight: bold;
+
+}
+.about{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.aboutp{
+    text-align: center;
+    line-height: 2rem;
+}
+.bold{
+    /* font-weight: bold; */
+    font-size: 1.5rem;
+    line-height: normal;
+    text-align: center;
+}
+.bolder{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.number{
+    font-size: 2.5rem;
+
+}
+.change{
+    padding-left: 5%;
+    
+   
+}
+.rank{
+    font-size: 3.5rem;
+    font-weight: bolder;
+}
+/* .adjust{
+    
+} */
+.trophy{
+   position: absolute;
+    padding-left: 40%;
+    bottom : 0%;
+   
+}
+hr.linee{
+    margin-top: 0%;
+    position: relative;
+    right: 5%;
+    border-top: solid black;
+    width: 100%;
+}
+.first{
+    font-size: medium;
+    font-weight: bolder;
+    text-align: center; 
+    margin-bottom: 0.8%;
+}
+.second{
+    font-size: medium;
+    font-weight: bolder;
+    text-align: center; 
+    padding-left: 7%;
+    margin-bottom: 0.8%;
+}
+.approvals{
+    padding-top: 20px;
+    background-color: #ebebeb;
+  
+    
+}
+
+.padding{
+    margin-top: 3%;
+}
+.center{
+    border-right: 2px solid blue ;
+    padding: 2.5%;
+    
+    
+
+}
+.aicte{
+    padding-top: 5%;
+    padding-left: 35%;
+    
+}
+.aictee{
+    padding-top: 0.8%;
+    padding-left: 4.09%;
+}
+.space{
+    margin-top: 3%;
+}
+.placeabout{
+padding-top: 3%;
+}
+.placement{
+    background-color: #ebebeb;
+    border: 3px solid #a6a6a4;
+    border-radius : 7px;
+    margin-bottom: 30px;
+    
+    
+}
+.place{
+    margin-top: 0%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.accepted{
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    margin-bottom: 1%;
+    background-color: #373a40;
+}
+.exams{
+    background-color: white;
+    border: solid transparent;
+    border-radius: 18px;
+    /* margin-top: 2%;
+    margin-bottom: 2%;
+    padding-left: 50%;
+    margin-left: 30px;
+    margin-right: 30px; */
+    padding-left: 40%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+
+}
+.button{
+    background-color: transparent;
+    margin-left: 3.5%;
+    margin-right: 3.5%; 
+    border: 2px solid white;
+    border-radius: 12px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;   
+}
+.mbutton{
+    background-color: transparent;
+    margin-left: 3.5%;
+    margin-right: 0.4%; 
+    border: 2px solid white;
+    border-radius: 12px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%; 
+
+}
+.text{
+    padding-left: 20%;
+    padding-right: 24%;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    /* padding: 29% 29%; */
+}
+.col{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.right{
+    border-left: 5px solid #51adcf ;
+    padding-left: 10%;
+}
+.imgg{
+    padding-left: 30%;
+    padding-right: 20%;
+    padding-bottom: 5%;
+    height: 127%;
+
+}
+.left{
+    border-left: 20px solid #51adcf ;
+    padding-left: 2%; 
+}
+.content{
+    
+    color:white;
+}
+hr.line{
+    border-top: solid white;
+    width: 90%;
+}
+.last{
+    padding-bottom: 2%;
+}
+#copyright{
+    padding-left: 40%;
+}
+.img{
+    padding-right: 20%;
+    padding-bottom: 5%;
+    height: 127%;
+}
+.chart{
+    align-content: center;
+    padding-top: 0.2%;
+    width: 100%;
+   
+}
+.circle{
+    align-content: center;
+    
+}
+.para{
+    padding-right: 3%;
+}
+.fix{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+@media(max-width: 1080px){
+.heading{
+    padding-left: 35%;
+
+}
+.padding{
+    padding-left: 40%;
+}
+.aheading{
+    padding-left: 14%;
+    font-size: 1.45rem;
+   
+
+}
+.aictee{
+    padding-left: 10.79%;
+
+}
+.pheading{
+    padding-left: 31%;
+}
+.exams{
+    padding-left: 20%;
+}
+.rheading{
+    padding-left: 30%;
+}
+.alheading{
+    padding-left: 25%;
+
+}
+#copyright{
+    padding-left: 28%;
+}
+.button{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.text{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.bold{
+    font-size: 1rem;
+    font-weight: bold;
+
+}
+.bolder{
+    text-align: center;
+    font-size: xsall;
+}
+.number{
+    font-size: 2rem;
+}
+.header-img{
+    height: 200px;
+    margin-bottom: 160%;
+}
+.form{
+    top: 20%; 
+    left: 3%;
+    width: 80%;
+    border-radius: 20px;
+
+}
+.spons{
+    width: 50%;
+    padding-right: 0%;
+}
+.elk{
+    width: 30%;
+}
+.box{
+    font-size: xx-small;
+    padding-left: 0%;
+    height: 30%;
+}
+.lower{
+    /* position:absolute; */
+    /* top: 12%;
+    right: 20%;
+    left: 29%;   */
+    top: 13.5%;
+    left: 54%;
+    font-size: xx-small ;
+}
+hr.adm{
+    position: relative;
+    right: 2%;
+    width: 75%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.right{
+    border-left: none;
+    padding-left: 0%;
+}
+.img{
+    padding-right: 10%;
+    height: 152%;
+}
+.imgg{
+    padding-left: 0%;
+    padding-right: 10%;
+    height: 152%;
+
+}
+.bottom{
+    padding-bottom: 1%;
+    border-bottom: 5px solid #51adcf;
+   
+}
+.fix{
+    
+    padding-left:  1%;
+    padding-right: 1%;
+
+}
+.fixx{
+    width: 100%;
+}
+.left{
+    border-left: 10px solid #51adcf ;
+    
+
+}
+.adjust{
+    font-size: xx-small;
+    font-weight: lighter;
+}
+.content{
+    font-size: xx-small;
+    font-weight: lighter;
+
+}
+.rank{
+    font-size: 1rem;
+    font-weight: bolder;
+    
+}
+.trophy{
+    padding-left: 20%;
+    
+}
+.alumni{
+    font-size: 1.5rem;
+    margin-bottom: 0%;
+   
+}
+.alumnitext{
+    font-size: small;
+}
+.para{
+   font-size: small;
+}
+.aboutp{
+    /* text-align: center; */
+    line-height: 1.49rem;
+}
+.cont{
+    font-size: small;
+}
+.accepted{
+    padding-left: 5%;
+}
+.resbutton{
+    padding-left: 10%;
+}
+}
